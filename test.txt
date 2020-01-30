@@ -10,3 +10,6 @@ IP_TEST = "85.90.135.1";
 //secret-device
 
 //0193287592BHU7162
+complete
+network
+domain = "kutmor.com";
