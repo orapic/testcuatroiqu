@@ -1,0 +1,12 @@
+//this is for test purposes only
+morkut = "test";
+
+api_key = "test1234";
+
+IP_TEST = "85.90.135.1";
+
+//secret
+
+//secret-device
+
+//0193287592BHU7162
